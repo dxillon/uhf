@@ -283,7 +283,7 @@ const Home = () => {
               className="text-center mt-10"
             >
               <Link
-                href="/projects"
+                to="/projects"
                 className="inline-flex items-center justify-center px-8 py-3 bg-gradient-to-r from-red-500 to-red-600 text-white hover:from-red-600 hover:to-red-700 transition-all duration-300 rounded-lg shadow-lg hover:shadow-red-500/20"
               >
                 View All Projects
