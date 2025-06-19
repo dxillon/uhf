@@ -539,7 +539,7 @@ const ArticlesPage: React.FC = () => {
                     </button>
 
                     <span className="px-4 text-sm font-semibold text-white tracking-wider">
-                      Page {currentPage} <span className="opacity-40 text-red-400 ">of</span> {totalPages}
+                      Page {currentPage} <span className=" text-red-400 ">of</span> {totalPages}
                     </span>
 
                     <button
