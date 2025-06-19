@@ -451,7 +451,7 @@ const ProjectShowcase = () => {
                 className="inline-flex items-center gap-2 px-8 py-4 bg-red-600 hover:bg-red-700 text-white rounded-full transition-all duration-300 transform hover:scale-105"
               >
                 <span className="text-lg font-semibold">
-                  Want to be in our shows and series? Get cast now!
+                  Want to be in our shows and series? Get cast now !
                 </span>
                 {isFormVisible ? (
                   <ChevronUp className="w-5 h-5" />
