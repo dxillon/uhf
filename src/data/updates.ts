@@ -3,9 +3,9 @@ import { articles } from './articles';
 
 
 export const updates = [
-  { text: "Made with Bolt.new", link: "https://bolt.new" },
-  { text: "Made with Bolt.new", link: "https://bolt.new" },
-  { text: "Made with Bolt.new", link: "https://bolt.new" }
+  { text: "Built with Bolt.new", link: "https://bolt.new" },
+  { text: "Built with Bolt.new", link: "https://bolt.new" },
+  { text: "Built with Bolt.new", link: "https://bolt.new" }
   // { text: "Bishan on Instagram", link: "https://instagram.com/thebishandxillon" },
   // { text: "Kankhajura Returns", id: "1" },
   // { text: "Our Journey", link: "/journey" },
